@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="note_title_hint_edit_text">Napisz tytuł...</string>
+    <string name="note_describe_hint_edit_text">Napisz notatkę...</string>
+    <string name="new_note">Nowy</string>
+    <string name="delete_note">Usuń</string>
+    <string name="delete_question">Czy na pewno usunąć ?</string>
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+    <string name="save_note">zapisz</string>
+    <string name="note_saved">Zapisano</string>
+    <string name="note_removed">Usunięto</string>
+    <string name="notes">Notatki</string>
+</resources>
